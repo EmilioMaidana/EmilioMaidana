@@ -1,5 +1,5 @@
 ### Hi there 👋
-Estudiante de Ingenieria en Sistemas de Informacion UTN FRBA
+Student at Universidad Tecnológica Nacional, doing a Computer Engineering degree
 
 <!--
 **EmilioMaidana/EmilioMaidana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
